@@ -1,12 +1,16 @@
 💰 Income Classifier Project
 A machine learning solution to predict whether a person's income is above or below 50K using the famous Adult dataset. Built with scikit-learn and pandas, and visualized with seaborn & matplotlib.
 
+
 🚀 Project Overview
 Goal: Predict income category (<50K or ≥50K) based on demographic and work features
 
+
 Model Used: DecisionTreeClassifier 🌳
 
+
 Tech Stack: Python 🐍, pandas 🐼, scikit-learn 🤖, matplotlib 📈, seaborn 🌊
+
 
 🗃️ Dataset
 Source: UCI Adult Dataset
@@ -16,6 +20,7 @@ Rows: 32,561
 Features: 14
 
 Target: income (<50K, ≥50K)
+
 
 Columns:
 
@@ -49,6 +54,7 @@ Columns:
 
 🤑 income: Income class (<50K, ≥50K)
 
+
 ⚙️ Requirements
 Python 3.x 🐍
 
@@ -62,6 +68,7 @@ seaborn 🌊
 
 scikit-learn 🤖
 
+
 🛠️ Installation & Usage
 bash
 pip install -r requirements.txt
@@ -73,6 +80,7 @@ Model training, prediction, and evaluation are included!
 
 Results: Accuracy score and confusion matrix 📊
 
+
 📖 Project Structure
 Income_classifier.ipynb — Main notebook
 
@@ -80,10 +88,12 @@ adult dataset.csv — Data file
 
 requirements.txt — Python dependencies
 
+
 ⭐ Results
 Accuracy: Shown in notebook output ✅
 
 Confusion Matrix: Visualized for model performance 🟩🟦🟥
+
 
 💡 Notes
 Automatic handling of missing values 🙅‍♀️
